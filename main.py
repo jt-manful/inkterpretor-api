@@ -6,7 +6,7 @@ from title_generator import title_generator
 from flask_cors import CORS, cross_origin
 import pyrebase
 import datetime
-import functions_framework
+#import functions_framework
 
 
 
@@ -35,30 +35,30 @@ person = {"is_logged_in": False, "name": "", "email": "", "uid": ""}
 
 
 
-@functions_framework.http
-def entry_point(request):
-    if 'register' in request.path and request.method == "POST":
-        return register()
-    elif 'login' in request.path and request.method == "POST":
-        return login()
-    elif 'signout' in request.path and request.method == "POST":
-        return signout()
-    elif 'users' in request.path and request.method == "GET":
-        return get_user()
-    elif 'upload_image' in request.path and request.method == "POST":
-        return upload_image()
-    elif 'post_text_to_sum' in request.path and request.method == "POST":
-        return post_text()
-    elif 'view_document' in request.path and request.method == "POST":
-        return view_document()
-    elif 'view_history' in request.path and request.method == "POST":
-        return view_history()
-    elif 'delete_document' in request.path and request.method == "POST":
-        return delete_document()
-    elif 'delete_history' in request.path and request.method == "POST":
-        return delete_history()
-    else:
-        return jsonify({"error": "Invalid endpoint or method"}), 404
+# @functions_framework.http
+# def entry_point(request):
+#     if 'register' in request.path and request.method == "POST":
+#         return register()
+#     elif 'login' in request.path and request.method == "POST":
+#         return login()
+#     elif 'signout' in request.path and request.method == "POST":
+#         return signout()
+#     elif 'users' in request.path and request.method == "GET":
+#         return get_user()
+#     elif 'upload_image' in request.path and request.method == "POST":
+#         return upload_image()
+#     elif 'post_text_to_sum' in request.path and request.method == "POST":
+#         return post_text()
+#     elif 'view_document' in request.path and request.method == "POST":
+#         return view_document()
+#     elif 'view_history' in request.path and request.method == "POST":
+#         return view_history()
+#     elif 'delete_document' in request.path and request.method == "POST":
+#         return delete_document()
+#     elif 'delete_history' in request.path and request.method == "POST":
+#         return delete_history()
+#     else:
+#         return jsonify({"error": "Invalid endpoint or method"}), 404
 
 
 
