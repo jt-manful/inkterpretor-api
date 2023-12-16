@@ -1,14 +1,4 @@
 {
-    "type": "service_account",
-    "project_id": "inkterpretor",
-    "private_key_id": "ca12bf5d3d6c39e37d3bcd2745307fedba68f46c",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE81s78xTnbzu+\nqzxLMkzfVN4SZOgSdbsJBOk1NbmPz/5G6EyxyvaW/QBrzLwtFCiRnOgErPvEdEzg\nfHIXv4JbvkcDOyZ0cDsn0UEgZl9RipVaZADz3FNGHtwC4vYHyeMyiivbJisUtW5A\nhvbMOCCgt8p1K91PnoA12Hiy26zeXOGcagnhxZaUTs8JcN3i77i9qAOrFp5NH05G\nB7nFvswyTEQbOhRrLZjAMwkA/NKu7i7P09GO5EOOj/EAnQacQrpB0Ev7t14Tx7xD\nKqntSOLHFdbBoXUyLTijfloZvgibuzVlY+uGb/VwDpZ5R57YC0rxyXh1FDgNv6uH\nQuhOj+pvAgMBAAECggEABcl3cHnXrxEypTXs2JzKwMktQ/HDwT8aVs0rzmIcvgqz\ngwEyYmBUrI0Uj8D9Sn8heLMukhdEco+kQ/hZdd8tBRBrOmoThYUCsqHQaGj5pgYM\nwLzYK6eD/uHLPykiEjUuwCkVLs7z9xt5o4W+XLPNfvYc3yKB0eQWClRTqkBlgkcV\nJESRv5wlsZB0A+Q7RJCblLLOMqZ5bEXb8/MLwkyGJxFCpjBDOLx2jMg+Ia08BaML\nV4KcbEIpE0L2RN7TiQ3kg1Rw31G/oITjU7fFmqDiItYeIAM62jN3uV4/YwVRRzaP\nx7qm6L1sQDNHi0BFqRSQWwPFEoKBIh6N6v2tRk5AsQKBgQD1G9QZyJXTA6MIRIHZ\nF2nRlNwzL7rk/X5+8GV8AsDtjvI7mzlkyAKPYvMacNz40+q3Z3LoLFnjMzFUdZQW\n28uzYZsgRRv259F/ZdCoUT9I1zYpZcWojNzdWxPZHtsgIx/hICKWEBu5I2vfYFNh\nQd/SnSlzaNOZT2k/A97v03OshwKBgQDNs7e/PaurOyBJ5FG6drknjPt3IRc0iWAr\nqlE69+isCrmRGolAJPXd0M2R3pl827a3z3VZYgUUs6MuzOqpIbiJIN4RSjjP8B1B\nFSEb7EThRmJzsH6rh82CH5teu/S6DGoCS8GU0q3LcDF7x5MHNhFmZS6FV9G0xemV\npwc7LN702QKBgQCsss7e29W0t/tG9/4FV9nXMWt1JUwpy/I0vmzC063bs7w5A0WN\nHN+w56ciGiOXrrjSQLFVpOowiwFW4QFWmccMvNjwA8GQVgXmHXbHIXfVes1OncaG\n27lCvcleUb9TBWyQ0nOMCA2AhNScruIQxLlPTCzIhDOS8cDWBYQutm3qQQKBgHmr\nT4gChkPl2RdbwSu1hZbrQOIZ5IvipcuuFhX3BNyeC1zUgVI7imIFW1JohAjiPJVE\nVHjmDXNNPbw04KfhljEmC7PWXvw/Xk5cnRTTD3rgEuOzBXmX/ep1n4TNT9er+Bgb\njwjkBIBMgDhit4iQZoJWXsnoQ9XVKnCmNxS9WbMhAoGAXsK416fjAniAJwyjorHW\nIDCS3x9F1Smfzn4UdTGNln76ZHosRHaTyEATzIvKQSh1fkZosaGtbj+9r7XOmJ8i\n0nGeDiXgEbaH6vt+uHvjsy8Ecrt+4I6jGCjeFpI0aG0z2QKwtRCZbNYGzqJb+XtV\n7zXvUMTpeq/QsOIglP2YUQA=\n-----END PRIVATE KEY-----\n",
-    "client_email": "inkterpretor-service@inkterpretor.iam.gserviceaccount.com",
-    "client_id": "107091829540564694033",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/inkterpretor-service%40inkterpretor.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
+  
   }
   
