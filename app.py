@@ -15,14 +15,7 @@ app = Flask(__name__)
 CORS(app)
 
 firebaseConfig = {
-    "apiKey": "AIzaSyDRtjljqCwKnYwo9j8mnzs7lvQx911eD0w",
-    "authDomain": "inkterpretor.firebaseapp.com",
-    "projectId": "inkterpretor",
-    "storageBucket": "inkterpretor-user-images",
-    "messagingSenderId": "169488625707",
-    "appId": "1:169488625707:web:6705cb005922a61edd7a6e",
-    "measurementId": "G-14G1SRXFBT",
-    "databaseURL": "https://inkterpretor-default-rtdb.firebaseio.com",
+    
      }
 
 firebase = pyrebase.initialize_app(firebaseConfig)
